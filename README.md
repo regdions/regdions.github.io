@@ -14,17 +14,21 @@ A collection of projects completed as part of the `Cisco Networking Academy Data
 ## [Set 1: Coding for Answers Projects]()
 This set focuses on using code to explore datasets, answer analytical questions, and extract meaningful information from data. 
 
-1. [First Day of Week Project ](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/first-day-of-week-project/first-day-of-week-project)
+1.[ First Day of Week Project ](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/first-day-of-week-project/first-day-of-week-project)
 
-   Project Questions:
-   - How many territories show Friday, Saturday, Sunday, and Monday as the first_day of the week?
-   - How many people start the week on Friday, Saturday, Sunday, and Monday?
-   - Which of the four_regions predominantly start the week on Sunday? On Monday?
-   - Are there any regions that are more divided between Sunday and Monday?
+   <details>
+      <summary>Project Questions</summary>
+         <p>
+            <li> How many territories show Friday, Saturday, Sunday, and Monday as the first_day of the week?</li>
+            <li> How many people start the week on Friday, Saturday, Sunday, and Monday?</li>
+            <li> Which of the four_regions predominantly start the week on Sunday? On Monday?</li> 
+            <li>Are there any regions that are more divided between Sunday and Monday?</li>
+         </p>
+   </details>
 
+<br>
 
-
-2. [Jean Pockets Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/jean-pockets-project/jean-pockets-project)
+2.[ Jean Pockets Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/jean-pockets-project/jean-pockets-project)
 
    Project Questions:
    - What is the average difference in pocket height_front between women's and men's jeans?
@@ -34,7 +38,7 @@ This set focuses on using code to explore datasets, answer analytical questions,
 
 
 
-3. [Largest Islands Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/largest-islands-project/largest-islands-project)
+4. [Largest Islands Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/largest-islands-project/largest-islands-project)
 
    Project Questions:
    - What are the 10 largest islands in the tropics?
@@ -44,7 +48,7 @@ This set focuses on using code to explore datasets, answer analytical questions,
 
 
 
-4. [Naming Colors Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/naming-colors-project/naming-colors-project)
+5. [Naming Colors Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/naming-colors-project/naming-colors-project)
 
    Project Ideas:
    - For each language, calculate what percentage of chips are named each color. Return dataframes for each language.
@@ -53,7 +57,7 @@ This set focuses on using code to explore datasets, answer analytical questions,
 
 
 
-5. [People on Banknotes Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/people-on-banknotes-project/people-on-banknotes-project)
+6. [People on Banknotes Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/people-on-banknotes-project/people-on-banknotes-project)
 
    Project Questions:
    - What proportion of individuals featured are male versus female?
