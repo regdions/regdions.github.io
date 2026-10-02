@@ -12,6 +12,7 @@ Welcome to my portfolio! I am an Applied Mathematics graduate exploring the worl
 
 ## [Set 1: Coding for Answers Projects]()
 Welcome to my portfolio! I am an Applied Mathematics graduate exploring the world of data analytics and data science. Here, I share projects where I apply my knowledge to explore real-world and academic datasets.
+
 1. [First Day of Week Project ](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/first-day-of-week-project/first-day-of-week-project)
 
    Project Questions:
@@ -20,7 +21,7 @@ Welcome to my portfolio! I am an Applied Mathematics graduate exploring the worl
    - Which of the four_regions predominantly start the week on Sunday? On Monday?
    - Are there any regions that are more divided between Sunday and Monday?
 
-<br>
+
 
 2. [Jean Pockets Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/jean-pockets-project/jean-pockets-project)
 
