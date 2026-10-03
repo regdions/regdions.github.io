@@ -13,10 +13,10 @@ A collection of projects completed as part of the `Cisco Networking Academy Data
 <br><br>
 
 
-## [Set 1: Coding for Answers Projects↗]()
+## [Set 1: Coding for Answers Projects ↗](https://github.com/regdions/CISCO-Coding-for-Answers-Projects)
 This set focuses on using code to explore datasets, answer analytical questions, and extract meaningful information from data. 
 
-1.[ First Day of Week Project ](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/blob/5aa69d1f51c899e612587f549c16dd8d3fb30300/first-day-of-week-project/first-day-of-week-project/first-day-of-week.ipynb)
+1.[ First Day of Week Project ↗](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/blob/5aa69d1f51c899e612587f549c16dd8d3fb30300/first-day-of-week-project/first-day-of-week-project/first-day-of-week.ipynb)
 
    <details>
       <summary>▷ Project Questions </summary>
@@ -32,7 +32,7 @@ This set focuses on using code to explore datasets, answer analytical questions,
 <br>
 
 
-2.[ Jean Pockets Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/blob/e1ea94d00b19996c542094168ca72ecfaf114fb1/jean-pockets-project/jean-pockets-project/jeans-pockets.ipynb)
+2.[ Jean Pockets Project ↗](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/blob/e1ea94d00b19996c542094168ca72ecfaf114fb1/jean-pockets-project/jean-pockets-project/jeans-pockets.ipynb)
 
    <details>
       <summary>▷ Project Questions </summary>
@@ -48,7 +48,7 @@ This set focuses on using code to explore datasets, answer analytical questions,
 <br>
 
 
-3.[ Largest Islands Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/blob/2dcbc83c8b35e3c4d1b6651749171ca173615c5e/largest-islands-project/largest-islands-project/largest-islands.ipynb)
+3.[ Largest Islands Project ↗](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/blob/2dcbc83c8b35e3c4d1b6651749171ca173615c5e/largest-islands-project/largest-islands-project/largest-islands.ipynb)
 
    <details>
       <summary>▷ Project Questions </summary>
@@ -64,7 +64,7 @@ This set focuses on using code to explore datasets, answer analytical questions,
 <br>
 
 
-4.[ Naming Colors Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/blob/b47bf769b8cf4a529219c8e383dd8143a17720ab/naming-colors-project/naming-colors-project/naming-colors.ipynb)
+4.[ Naming Colors Project ↗](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/blob/b47bf769b8cf4a529219c8e383dd8143a17720ab/naming-colors-project/naming-colors-project/naming-colors.ipynb)
 
    <details>
       <summary>▷ Project Ideas </summary>
@@ -79,7 +79,7 @@ This set focuses on using code to explore datasets, answer analytical questions,
 <br>
 
 
-5.[ People on Banknotes Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/blob/65001a924a2fed9f7cc98e0b547e8b6848b7f3d6/people-on-banknotes-project/people-on-banknotes-project/people-on-banknotes.ipynb)
+5.[ People on Banknotes Project ↗](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/blob/65001a924a2fed9f7cc98e0b547e8b6848b7f3d6/people-on-banknotes-project/people-on-banknotes-project/people-on-banknotes.ipynb)
 
    <details>
       <summary>▷ Project Questions </summary>
@@ -99,10 +99,10 @@ This set focuses on using code to explore datasets, answer analytical questions,
 <br><br>
 
 
-## [Set 2: Data Cleaning Projects](https://github.com/regdions/Data-Cleaning-Projects)
+## [Set 2: Data Cleaning Projects ↗](https://github.com/regdions/Data-Cleaning-Projects)
 Projects focused on preparing and improving datasets by identifying missing values, correcting inconsistencies, transforming data, and applying data cleaning tecniques.
 
-1.[ Emoji Sentiment Project](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/b06020fac22868bbfec4b5c1874aa1281bf24ca4/emoji-sentiment-project/emoji-sentiment-project/emoji-sentiment.ipynb)
+1.[ Emoji Sentiment Project ↗](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/b06020fac22868bbfec4b5c1874aa1281bf24ca4/emoji-sentiment-project/emoji-sentiment-project/emoji-sentiment.ipynb)
 
    <details>
       <summary>▷ Data Cleaning </summary>
@@ -128,7 +128,7 @@ Projects focused on preparing and improving datasets by identifying missing valu
 
 <br>
 
-2.[ Solar Eclipses Project](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/b1486a0528f5a853db4694ee5101f4ad16c5367f/solar-eclipses-project/solar-eclipses-project/solar-eclipses.ipynb)
+2.[ Solar Eclipses Project ↗](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/b1486a0528f5a853db4694ee5101f4ad16c5367f/solar-eclipses-project/solar-eclipses-project/solar-eclipses.ipynb)
 
    <details>
       <summary>▷ Data Cleaning </summary>
@@ -149,7 +149,7 @@ Projects focused on preparing and improving datasets by identifying missing valu
 
    <br>
 
-3.[ Typing Speeds Project](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/89582ebe85b0c239ab4cd6052a460f4ec56abef8/typing-speeds-project/typing-speeds.ipynb)
+3.[ Typing Speeds Project ↗](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/89582ebe85b0c239ab4cd6052a460f4ec56abef8/typing-speeds-project/typing-speeds.ipynb)
 
    <details>
       <summary>▷ Data Cleaning </summary>
@@ -185,7 +185,7 @@ Projects focused on preparing and improving datasets by identifying missing valu
 
 <br>
 
-4.[ Volcanic Eruptions Project](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/b52ccebb6c72fbdb487cc1d6374f083b73374275/volcanic-eruptions-project/volcanic-eruptions.ipynb)
+4.[ Volcanic Eruptions Project ↗](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/b52ccebb6c72fbdb487cc1d6374f083b73374275/volcanic-eruptions-project/volcanic-eruptions.ipynb)
 
    <details>
       <summary>▷ Data Cleaning </summary>
@@ -202,39 +202,4 @@ Projects focused on preparing and improving datasets by identifying missing valu
             <li> Find the volcanoes that have had the longest volcanic eruptions.</li>
          </ul>
    </details>
-
-
-<br><br>
-
-
-## [Set 3: Data Visualization Projects]()
-Projects focused on exploring and communicating data through charts, graphs, and visualizations to identify patterns, trends, and meaningful insights.
-
-1. [sample]()
-2. [samoke]()
-3. [sample]()
-
-
-
-## [Set 4: Data Modeling Projects]()
-Projects focused on building and evaluating statistical models in Python, including linear regression and other modeling techniques to analyze relationships and make predictions.
-1. [sample]()
-2. [samoke]()
-3. [sample]()
-
-
-
-## [Set 4: Data Storytelling Projects]()
-This set focuses on turning data into clear and meaningful stories by combining analysis, visualizations,a nd insights to communicate findings effectively.
-1. [sample]()
-2. [samoke]()
-3. [sample]()
-
-
-<br><br>
-
-
-# ONLINE RETAIL II DATA ANALYSIS PROJECT
-
-
 
