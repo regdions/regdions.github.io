@@ -13,7 +13,7 @@ A collection of projects completed as part of the `Cisco Networking Academy Data
 <br><br>
 
 
-## [Set 1: Coding for Answers Projects]()
+## [Set 1: Coding for Answers Projects↗]()
 This set focuses on using code to explore datasets, answer analytical questions, and extract meaningful information from data. 
 
 1.[ First Day of Week Project ](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/blob/5aa69d1f51c899e612587f549c16dd8d3fb30300/first-day-of-week-project/first-day-of-week-project/first-day-of-week.ipynb)
@@ -102,7 +102,7 @@ This set focuses on using code to explore datasets, answer analytical questions,
 ## [Set 2: Data Cleaning Projects](https://github.com/regdions/Data-Cleaning-Projects)
 Projects focused on preparing and improving datasets by identifying missing values, correcting inconsistencies, transforming data, and applying data cleaning tecniques.
 
-1. [Emoji Sentiment Project](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/b06020fac22868bbfec4b5c1874aa1281bf24ca4/emoji-sentiment-project/emoji-sentiment-project/emoji-sentiment.ipynb)
+1.[ Emoji Sentiment Project](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/b06020fac22868bbfec4b5c1874aa1281bf24ca4/emoji-sentiment-project/emoji-sentiment-project/emoji-sentiment.ipynb)
 
    <details>
       <summary>▷ Data Cleaning </summary>
@@ -128,7 +128,7 @@ Projects focused on preparing and improving datasets by identifying missing valu
 
 <br>
 
-2. [Solar Eclipses Project](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/b1486a0528f5a853db4694ee5101f4ad16c5367f/solar-eclipses-project/solar-eclipses-project/solar-eclipses.ipynb)
+2.[ Solar Eclipses Project](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/b1486a0528f5a853db4694ee5101f4ad16c5367f/solar-eclipses-project/solar-eclipses-project/solar-eclipses.ipynb)
 
    <details>
       <summary>▷ Data Cleaning </summary>
@@ -148,8 +148,8 @@ Projects focused on preparing and improving datasets by identifying missing valu
    </details>
 
    <br>
-   
-3. [Typing Speeds Project](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/89582ebe85b0c239ab4cd6052a460f4ec56abef8/typing-speeds-project/typing-speeds.ipynb)
+
+3.[ Typing Speeds Project](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/89582ebe85b0c239ab4cd6052a460f4ec56abef8/typing-speeds-project/typing-speeds.ipynb)
 
    <details>
       <summary>▷ Data Cleaning </summary>
@@ -185,7 +185,7 @@ Projects focused on preparing and improving datasets by identifying missing valu
 
 <br>
 
-5. [Volcanic Eruptions Project](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/b52ccebb6c72fbdb487cc1d6374f083b73374275/volcanic-eruptions-project/volcanic-eruptions.ipynb)
+4.[ Volcanic Eruptions Project](https://github.com/regdions/CISCO-Data-Cleaning-Projects/blob/b52ccebb6c72fbdb487cc1d6374f083b73374275/volcanic-eruptions-project/volcanic-eruptions.ipynb)
 
    <details>
       <summary>▷ Data Cleaning </summary>
