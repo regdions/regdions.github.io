@@ -9,7 +9,9 @@ Welcome to my portfolio! I am an Applied Mathematics graduate exploring the worl
 # CISCO | DATA SCIENCE WITH PYTHON COURSE PROJECTS
 A collection of projects completed as part of the `Cisco Networking Academy Data Science Essentials with Python` course, covering Python programming, data manipulation, data cleaning, exploratory data analysis, and working with real-world datasets. The Projects demonstrate the practical application of Python and Data Science concepts through hands-on exercises and open-ended analyses.
 
-<br>
+
+<br><br>
+
 
 ## [Set 1: Coding for Answers Projects]()
 This set focuses on using code to explore datasets, answer analytical questions, and extract meaningful information from data. 
@@ -18,17 +20,7 @@ This set focuses on using code to explore datasets, answer analytical questions,
 
    <details>
       <summary>▷ Project Questions </summary>
-         <p><pre>
-• How many territories show Friday, Saturday, Sunday, and Monday as the first_day of the week?</li>
-• How many people start the week on Friday, Saturday, Sunday, and Monday?</li>
-• Which of the four_regions predominantly start the week on Sunday? On Monday?</li> 
-• Are there any regions that are more divided between Sunday and Monday?</li>
-         </pre></p>
-   </details>
-
-   <details>
-      <summary>▷ Project Questions </summary>
-         <ul style="padding-left: 60px; list-style-type: disc;">
+         <ul style="padding-left: 50px; list-style-type: disc; margin-top: 10px;">
             <li> How many territories show Friday, Saturday, Sunday, and Monday as the first_day of the week?</li>
             <li> How many people start the week on Friday, Saturday, Sunday, and Monday?</li>
             <li> Which of the four_regions predominantly start the week on Sunday? On Monday?</li> 
@@ -36,50 +28,76 @@ This set focuses on using code to explore datasets, answer analytical questions,
          </ul>
    </details>
 
+
 <br>
+
 
 2.[ Jean Pockets Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/jean-pockets-project/jean-pockets-project)
 
-   Project Questions:
-   - What is the average difference in pocket height_front between women's and men's jeans?
-   - Is there a significant difference in pocket height_front between skinny and straight styles within the same gender?
-   - How do back pocket sizes compare between women's and men's jeans?
-   - What percentage of women's and men's jeans can comfortably fit your phone (15 cm) in the pockets?
+   <details>
+      <summary>▷ Project Questions </summary>
+         <ul style="padding-left: 50px; list-style-type: disc; margin-top: 10px;">
+            <li> What is the average difference in pocket height_front between women's and men's jeans?</li>
+            <li> Is there a significant difference in pocket height_front between skinny and straight styles within the same gender?</li>
+            <li> How do back pocket sizes compare between women's and men's jeans?</li> 
+            <li> What percentage of women's and men's jeans can comfortably fit your phone (15 cm) in the pockets?</li>
+         </ul>
+   </details>
 
-
-
-4. [Largest Islands Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/largest-islands-project/largest-islands-project)
-
-   Project Questions:
-   - What are the 10 largest islands in the tropics?
-   - What are the largest islands in each region?
-   - Create a line graph with area on the y-axis and rank on the x-axis. The data should be ordered by rank, from largest to smallest.
-   - What islands are composed of multiple countries?
-
-
-
-5. [Naming Colors Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/naming-colors-project/naming-colors-project)
-
-   Project Ideas:
-   - For each language, calculate what percentage of chips are named each color. Return dataframes for each language.
-   - Create a horizontal bar plot for each language. Each bar represents a color name and the length encodes the percentage of chips that are named that color.
-   - Is there a correlation between languages? Create scatter plots.
-
-
-
-6. [People on Banknotes Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/people-on-banknotes-project/people-on-banknotes-project)
-
-   Project Questions:
-   - What proportion of individuals featured are male versus female?
-   - Are writers or politicians more commonly depicted?
-   - What percentage of featured individuals are musicians?
-   - What percentage of banknotes were issued before the person’s death?
-   - Who is the oldest historical figure in the dataset?
-   - Which countries feature the oldest historical figures on their banknotes?
-   - What percentage of individuals died at least 100 years before appearing on a banknote?
-   - Which individuals appeared on a banknote just one year after their death?
 
 <br>
+
+
+3.[ Largest Islands Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/largest-islands-project/largest-islands-project)
+
+   <details>
+      <summary>▷ Project Questions </summary>
+         <ul style="padding-left: 50px; list-style-type: disc; margin-top: 10px;">
+            <li> What are the 10 largest islands in the tropics?</li>
+            <li> What are the largest islands in each region?</li>
+            <li> Create a line graph with area on the y-axis and rank on the x-axis. The data should be ordered by rank, from largest to smallest.</li> 
+            <li> What islands are composed of multiple countries?</li>
+         </ul>
+   </details>
+
+
+<br>
+
+
+4.[ Naming Colors Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/naming-colors-project/naming-colors-project)
+
+   <details>
+      <summary>▷ Project Ideas </summary>
+         <ul style="padding-left: 50px; list-style-type: disc; margin-top: 10px;">
+            <li> For each language, calculate what percentage of chips are named each color. Return dataframes for each language.</li>
+            <li> Create a horizontal bar plot for each language. Each bar represents a color name and the length encodes the percentage of chips that are named that color.</li>
+            <li> Is there a correlation between languages? Create scatter plots.</li> 
+         </ul>
+   </details>
+
+
+<br>
+
+
+5.[ People on Banknotes Project](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/people-on-banknotes-project/people-on-banknotes-project)
+
+   <details>
+      <summary>▷ Project Questions </summary>
+         <ul style="padding-left: 50px; list-style-type: disc; margin-top: 10px;">
+            <li> What proportion of individuals featured are male versus female?</li>
+            <li> Are writers or politicians more commonly depicted?</li>
+            <li> What percentage of featured individuals are musicians?</li> 
+            <li> What percentage of banknotes were issued before the person’s death?</li>
+            <li> Who is the oldest historical figure in the dataset?</li>
+            <li> Which countries feature the oldest historical figures on their banknotes?</li>
+            <li> What percentage of individuals died at least 100 years before appearing on a banknote?</li>
+            <li> Which individuals appeared on a banknote just one year after their death?</li>
+         </ul>
+   </details>
+
+
+<br><br>
+
 
 ## [Set 2: Data Cleaning Projects](https://github.com/regdions/Data-Cleaning-Projects)
 Projects focused on preparing and improving datasets by identifying missing values, correcting inconsistencies, transforming data, and applying data cleaning tecniques.
