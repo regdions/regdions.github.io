@@ -14,10 +14,10 @@ A collection of projects completed as part of the `Cisco Networking Academy Data
 ## [Set 1: Coding for Answers Projects]()
 This set focuses on using code to explore datasets, answer analytical questions, and extract meaningful information from data. 
 
-1.[ First Day of Week Project ](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/tree/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/first-day-of-week-project/first-day-of-week-project)
+1.[ First Day of Week Project ](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/blob/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/first-day-of-week-project/first-day-of-week-project/first-day-of-week.ipynb)
 
    <details>
-      <summary>Project Questions</summary>
+      <summary> [>> Project Questions] </summary>
          <p>
             <li> How many territories show Friday, Saturday, Sunday, and Monday as the first_day of the week?</li>
             <li> How many people start the week on Friday, Saturday, Sunday, and Monday?</li>
