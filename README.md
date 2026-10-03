@@ -18,6 +18,16 @@ This set focuses on using code to explore datasets, answer analytical questions,
 
    <details>
       <summary>>> Project Questions </summary>
+         <p><pre>
+         • How many territories show Friday, Saturday, Sunday, and Monday as the first_day of the week?</li>
+         • How many people start the week on Friday, Saturday, Sunday, and Monday?</li>
+         • Which of the four_regions predominantly start the week on Sunday? On Monday?</li> 
+         • Are there any regions that are more divided between Sunday and Monday?</li>
+         </pre></p>
+   </details>
+
+   <details>
+      <summary>>> Project Questions </summary>
          <p>
             <li>&emsp; How many territories show Friday, Saturday, Sunday, and Monday as the first_day of the week?</li>
             <li>&emsp; How many people start the week on Friday, Saturday, Sunday, and Monday?</li>
