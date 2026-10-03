@@ -17,12 +17,12 @@ This set focuses on using code to explore datasets, answer analytical questions,
 1.[ First Day of Week Project ](https://github.com/regdions/CISCO-Coding-for-Answers-Projects/blob/acab8a3aeec9099ebcb9dddc05b38af0ca47758c/first-day-of-week-project/first-day-of-week-project/first-day-of-week.ipynb)
 
    <details>
-      <summary> [>> Project Questions] </summary>
+      <summary>>> Project Questions </summary>
          <p>
-            <li> How many territories show Friday, Saturday, Sunday, and Monday as the first_day of the week?</li>
-            <li> How many people start the week on Friday, Saturday, Sunday, and Monday?</li>
-            <li> Which of the four_regions predominantly start the week on Sunday? On Monday?</li> 
-            <li>Are there any regions that are more divided between Sunday and Monday?</li>
+            <li>&emsp; How many territories show Friday, Saturday, Sunday, and Monday as the first_day of the week?</li>
+            <li>&emsp; How many people start the week on Friday, Saturday, Sunday, and Monday?</li>
+            <li>&emsp; Which of the four_regions predominantly start the week on Sunday? On Monday?</li> 
+            <li>&emsp; Are there any regions that are more divided between Sunday and Monday?</li>
          </p>
    </details>
 
